@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LabActOneTwo</string>
+    <string name="editTextHint">Enter a number</string>
+</resources>
